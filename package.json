@@ -11,5 +11,9 @@
     "workflow"
   ],
   "author": "Michael Kessel",
-  "license": "GPL license: http://www.gnu.org/licenses/gpl.html MIT license: http://www.opensource.org/licenses/mit-license.php"
+  "license": "GPL license: http://www.gnu.org/licenses/gpl.html MIT license: http://www.opensource.org/licenses/mit-license.php",
+  "devDependencies": {
+    "gulp": "^3.8.7",
+    "gulp-util": "^3.0.0"
+  }
 }
