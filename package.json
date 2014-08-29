@@ -4,7 +4,7 @@
   "description": "gulp workflow",
   "repository": {
     "type": "git",
-    "url": "?.git"
+    "url": "https://github.com/mkessel007/gulp-workflow.git"
   },
   "keywords": [
     "gulp",
@@ -14,6 +14,8 @@
   "license": "GPL license: http://www.gnu.org/licenses/gpl.html MIT license: http://www.opensource.org/licenses/mit-license.php",
   "devDependencies": {
     "gulp": "^3.8.7",
+    "gulp-coffee": "^2.1.2",
+    "gulp-concat": "^2.3.4",
     "gulp-util": "^3.0.0"
   }
 }
